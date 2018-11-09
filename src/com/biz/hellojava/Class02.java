@@ -1,4 +1,5 @@
-public class Test02 {
+package com.biz.hellojava;
+public class Class02 {
 
 	public static void main(String[] args) {
 		

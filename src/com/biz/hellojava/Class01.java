@@ -1,4 +1,5 @@
-public class Test01 {
+package com.biz.hellojava;
+public class Class01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
